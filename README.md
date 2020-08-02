@@ -2,7 +2,7 @@
 <em>I am a final term Physics student from <a href="http://portal.utfpr.edu.br/"><b>Federal University of Technology – Paraná, Brazil</b></a>. I work with Theoretical Computational Astrophysics (Scientific Research) and AI/Machine Learning (Data Science)</em>
 
 ## Developing 
-<p align="right"> Brazilian COVID-19 cases by state (<a href="http://portal.utfpr.edu.br/"><b>source code</b></a>) </p> <img align="right" src="https://i.imgur.com/cVeIZ6x.gif" width="350px"/> 
+<p align="right"> Brazilian COVID-19 cases by state (<a href="http://portal.utfpr.edu.br/"><b>source code</b></a>) </p> <img align="right" src="https://i.imgur.com/cVeIZ6x.gif" width="370px"/> 
 
 - **Python**
 	- Machine Learning 
@@ -31,6 +31,9 @@
   <img align="center" alt="Daniel's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://medium.com/@danielmkeras" target="blank">
-  <img align="center" alt="Daniel's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img align="center" alt="Daniel's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+ </a> 
+<a href="mailto:danielmkeras@gmail.com" target="blank">
+  <img align="center" alt="Daniel's Emaail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
  </a> 
 </p>
