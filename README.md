@@ -2,7 +2,7 @@
 I am a final term Physics student from <a href="http://portal.utfpr.edu.br/"><b>Federal University of Technology – Paraná, Brazil</b></a>. I work with Theoretical Computational Astrophysics (Scientific Research) and AI/Machine Learning (Data Science)
 
 ## Developing 
-<p align="right"> Brazilian COVID-19 cases by state (<a href="https://github.com/danielmarostica/covid_brasil"><b>source code</b></a>) </p> <img align="right" src="https://i.imgur.com/cVeIZ6x.gif" width="370px"/> 
+<p align="right"> Brazilian COVID-19 cases by state (<a href="https://github.com/danielmarostica/covid_brasil"><b>source code</b></a>) </p> <img align="right" src="https://media0.giphy.com/media/Jt5i1zQe1OOXCFf3l9/giphy.gif" width="400px"/> 
 
 - **Python**
 	- Machine Learning 
