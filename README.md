@@ -5,18 +5,14 @@ I am a physicist and a data scientist. I work with Theoretical Computational Ast
 
 **[and this one too](https://github.com/danielmarostica/GSClassificationTool)**: a multi-parameter, multi-model k-fold grid search with statistics visualization (accuracy and CAP).
 
-## Developing 
+## Data Science and Data Engineering 
 <p align="right"> Brazilian COVID-19 cases by state (<a href="https://github.com/danielmarostica/covid_brasil"><b>source code</b></a>) </p> <img align="right" src="https://media0.giphy.com/media/Jt5i1zQe1OOXCFf3l9/giphy.gif" width="400px"/> 
 
-- **Python**
-	- Machine Learning 
-	- Deep Learning
-	- Data Science & Astrophysics
-
-## Data Science 
+- Machine Learning
+- Deep Learning
 - SQL
 - Data Mining & Visualization
-- Tableau Visualization
+- Tableau & Data Studio Visualization
 
 
 ## <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
