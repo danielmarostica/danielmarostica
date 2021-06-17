@@ -3,7 +3,7 @@ I am a physicist and a data scientist. I work with Theoretical Computational Ast
 
 **Check out my pinned codes**
 
-**[and this one too](https://github.com/danielmarostica/GSClassificationTool)**: multi-parameter, multi-model k-fold grid search with statistics visualization (accuracy and CAP).
+**[and this one too](https://github.com/danielmarostica/GSClassificationTool)**: a multi-parameter, multi-model k-fold grid search with statistics visualization (accuracy and CAP).
 
 ## Developing 
 <p align="right"> Brazilian COVID-19 cases by state (<a href="https://github.com/danielmarostica/covid_brasil"><b>source code</b></a>) </p> <img align="right" src="https://media0.giphy.com/media/Jt5i1zQe1OOXCFf3l9/giphy.gif" width="400px"/> 
