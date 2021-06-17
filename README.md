@@ -1,9 +1,9 @@
 ### Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 I am a physicist and a data scientist. I work with Theoretical Computational Astrophysics (Scientific Research) and AI/Machine Learning (Data Science)
 
-**[Check out my new code](https://github.com/danielmarostica/GSClassificationTool)**
+**Check out my pinned codes**
 
-A multi-parameter, multi-model k-fold grid search with statistics visualization (accuracy and CAP).
+**[and this one too](https://github.com/danielmarostica/GSClassificationTool)**: multi-parameter, multi-model k-fold grid search with statistics visualization (accuracy and CAP).
 
 ## Developing 
 <p align="right"> Brazilian COVID-19 cases by state (<a href="https://github.com/danielmarostica/covid_brasil"><b>source code</b></a>) </p> <img align="right" src="https://media0.giphy.com/media/Jt5i1zQe1OOXCFf3l9/giphy.gif" width="400px"/> 
